@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Objective
+## Objective
 
 Analyze the **Superstore Giant** dataset to surface actionable business insights using:
 - SQL (via SQLite in-memory) for filtering, aggregation, and business queries
@@ -14,7 +14,7 @@ Analyze the **Superstore Giant** dataset to surface actionable business insights
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Week-02/
