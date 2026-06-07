@@ -21,14 +21,6 @@ CEI-2026/
 
 ---
 
-## 📅 Assignments
-
-| Week | Topic | Status |
-|------|-------|--------|
-| Week 01 | Basic Data Exploration and Cleaning using Pandas | ✅ Done |
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 3.x
