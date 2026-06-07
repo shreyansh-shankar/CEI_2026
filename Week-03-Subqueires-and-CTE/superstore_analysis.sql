@@ -40,18 +40,6 @@ CREATE TABLE superstore_raw (
     profit        REAL
 );
 
--- NOTE: Load CSV data here using your client's import command.
--- Example for SQLite CLI:
---   .mode csv
---   .headers on
---   .import Sample_Superstore.csv superstore_raw
---   DELETE FROM superstore_raw WHERE row_id = 'Row ID';  -- remove header row if needed
---
--- Example for PostgreSQL:
---   COPY superstore_raw FROM '/path/to/Sample_Superstore.csv'
---   WITH (FORMAT csv, HEADER true);
-
-
 -- 1.3 Create normalized tables
 
 CREATE TABLE customers (
