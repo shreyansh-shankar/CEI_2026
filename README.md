@@ -26,3 +26,5 @@ CEI-2026/
 - Python 3.x
 - Pandas
 - Jupyter Notebook
+- Azure
+- PySpark
